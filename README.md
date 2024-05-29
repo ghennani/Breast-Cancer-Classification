@@ -1,6 +1,8 @@
 Our project about presenting the 2 CNN models (Resnet50 & Xception)for doing a classification of Breast cancer with using BreakHis dataset 
 here's the link Below:
 https://www.kaggle.com/datasets/ambarish/breakhis
+here's the link of Xception model code from colab 
+https://colab.research.google.com/drive/1ZI5Jt_GB5lgZXDXhgX43EhDTPcGzbR7I?usp=sharing
 ![image](https://github.com/ghennani/Breast-Cancer-Classification/assets/106477949/aa749c3f-652e-43ec-811f-dabe4f6bad0e)
 ![image](https://github.com/ghennani/Breast-Cancer-Classification/assets/106477949/76c2c783-2387-4779-8b49-3b97d735e001)
 ![image](https://github.com/ghennani/Breast-Cancer-Classification/assets/106477949/f442371e-45b1-4a68-a8a3-165814997e21)
