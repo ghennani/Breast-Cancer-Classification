@@ -10,6 +10,10 @@ https://www.kaggle.com/datasets/ambarish/breakhis
 ![image](https://github.com/ghennani/Breast-Cancer-Classification/assets/106477949/13ab7f0c-aaf1-4f72-bb5c-9153ac074f01)
 ![image](https://github.com/ghennani/Breast-Cancer-Classification/assets/106477949/0f0899c6-ef08-4dc4-9bff-faeaca56eaae)
 ![image](https://github.com/ghennani/Breast-Cancer-Classification/assets/106477949/bae5afc4-423a-4f5e-a58e-c00602538a45)
+![image](https://github.com/ghennani/Breast-Cancer-Classification/assets/106477949/ccd8a1d0-8269-4ea9-8b1f-ca9c736f5bff)
+![image](https://github.com/ghennani/Breast-Cancer-Classification/assets/106477949/d16f8175-6a6d-4acd-aae9-aa159eb0dab4)
+
+
 
 
 
